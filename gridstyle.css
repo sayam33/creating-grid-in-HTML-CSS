@@ -1,0 +1,8 @@
+.grid {
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+}
+.grid-box {
+  height: 100px;
+  border: 1px solid greenyellow;
+}
